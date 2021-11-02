@@ -1,0 +1,12 @@
+public class algoritma {
+
+	public static void main(String[] args) {
+		int bilangan = 1;
+		while (bilangan < 18) {
+			System.out.println("Praktikum Algoritma");
+			bilangan++;
+		}
+
+	}
+
+}
